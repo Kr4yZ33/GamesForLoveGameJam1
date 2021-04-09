@@ -1,0 +1,440 @@
+fileFormatVersion: 2
+guid: 9416a9b67e040c242bd30479fc73686a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3811193844946645191
+    second: Paddle_extension_-_spritesheet_0
+  - first:
+      213: 1654637224686000870
+    second: Paddle_extension_-_spritesheet_1
+  - first:
+      213: 7417213949083494297
+    second: Paddle_extension_-_spritesheet_2
+  - first:
+      213: -5039124355859856801
+    second: Paddle_extension_-_spritesheet_3
+  - first:
+      213: -1281887431605117557
+    second: Paddle_extension_-_spritesheet_4
+  - first:
+      213: -4524771446034449915
+    second: Paddle_extension_-_spritesheet_5
+  - first:
+      213: -6600534366262642546
+    second: Paddle_extension_-_spritesheet_6
+  - first:
+      213: 5726139793095939104
+    second: Paddle_extension_-_spritesheet_7
+  - first:
+      213: 9119463543886092010
+    second: Paddle_extension_-_spritesheet_8
+  - first:
+      213: -5025754525374001448
+    second: Paddle_extension_-_spritesheet_9
+  - first:
+      213: -4917243848297559075
+    second: Paddle_extension_-_spritesheet_10
+  - first:
+      213: -9039706940727245238
+    second: Paddle_extension_-_spritesheet_11
+  - first:
+      213: -842355860994045594
+    second: Paddle_extension_-_spritesheet_0
+  - first:
+      213: -661813067098101665
+    second: Paddle_extension_-_spritesheet_1
+  - first:
+      213: -3164199821739019794
+    second: Paddle_extension_-_spritesheet_2
+  - first:
+      213: 6491103588846542427
+    second: Paddle_extension_-_spritesheet_3
+  - first:
+      213: -7584672936474882558
+    second: Paddle_extension_-_spritesheet_4
+  - first:
+      213: 4180004134008025629
+    second: Paddle_extension_-_spritesheet_5
+  - first:
+      213: 4419331141889076574
+    second: Paddle_extension_-_spritesheet_6
+  - first:
+      213: -6664204609370209670
+    second: Paddle_extension_-_spritesheet_7
+  - first:
+      213: -2828013566360754334
+    second: Paddle_extension_-_spritesheet_8
+  - first:
+      213: 1264693239774547982
+    second: Paddle_extension_-_spritesheet_9
+  - first:
+      213: 1476480945200991071
+    second: Paddle_extension_-_spritesheet_10
+  - first:
+      213: -3996971872201222809
+    second: Paddle_extension_-_spritesheet_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Paddle_extension_-_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 27
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6694bf2bec95f44f0800000000000000
+      internalID: -842355860994045594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paddle_extension_-_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 27
+        width: 38
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58e7eb9584c0d6f0800000000000000
+      internalID: -661813067098101665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paddle_extension_-_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 27
+        width: 42
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee134ead6018614d0800000000000000
+      internalID: -3164199821739019794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paddle_extension_-_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 27
+        width: 46
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e167d9258051a50800000000000000
+      internalID: 6491103588846542427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paddle_extension_-_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 27
+        width: 50
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e45eb4624ddb690800000000000000
+      internalID: -7584672936474882558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paddle_extension_-_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 27
+        width: 54
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12763ffc9b520a30800000000000000
+      internalID: 4180004134008025629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paddle_extension_-_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 27
+        width: 58
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5dae19424e945d30800000000000000
+      internalID: 4419331141889076574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paddle_extension_-_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 27
+        width: 62
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72c7fb573df383a0800000000000000
+      internalID: -6664204609370209670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paddle_extension_-_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 27
+        width: 66
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267e41515a0e0c8d0800000000000000
+      internalID: -2828013566360754334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paddle_extension_-_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 27
+        width: 66
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00999a0dc71d8110800000000000000
+      internalID: 1264693239774547982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paddle_extension_-_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 27
+        width: 66
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b8650d8938d7410800000000000000
+      internalID: 1476480945200991071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paddle_extension_-_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 27
+        width: 66
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765d7345247e788c0800000000000000
+      internalID: -3996971872201222809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
